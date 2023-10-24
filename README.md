@@ -23,7 +23,7 @@
 - 💡 I'm currently learning Web Development React - Fullstack Development by SDA - Integrify.
 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning Technologies.
 
 
 - 📭 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/farah-alharbi)
